@@ -1,6 +1,6 @@
 # TMC2130-Stall-guardPCB
 
-![pump_pcb](./pump_board.jpeg)
+![pump_pcb](./pump_board.jpg)
 
 A breakout PCB equipped with an atmega328p(Arduino) and TMC2130 driver board.
 
